@@ -10,6 +10,7 @@
     }
     "require": {
         "php": ">=7.0",
+        "karmate/framework": "dev-master"
     },
     "autoload": {
         "psr-4": {
