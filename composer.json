@@ -7,7 +7,7 @@
     "support": {
         "issues": "https://github.com/karmate/framework/issues",
         "source": "https://github.com/karmate/framework"
-    }
+    },
     "require": {
         "php": ">=7.0",
         "karmate/framework": "dev-master"
