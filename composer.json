@@ -1,0 +1,28 @@
+{
+    "name": "karmate/karmate",
+    "description": "",
+    "keywords": ["framework", "karmate"],
+    "license": "MIT",
+    "homepage": "http://karmate.org",
+    "support": {
+        "issues": "https://github.com/karmate/framework/issues",
+        "source": "https://github.com/karmate/framework"
+    }
+    "require": {
+        "php": ">=7.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Apps\\": "apps"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
